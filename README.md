@@ -2,8 +2,7 @@
 
 A simple Python program to perform basic arithmetic operations: ➕ ➖ ✖ ➗
 
-![Console Calculator in action] 
-(Thumbnail_Calculator.png)
+![Console Calculator in action](Thumbnail_Calculator.png)
 
 ## ✨ Features
 - ➕ Addition  
